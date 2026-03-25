@@ -316,6 +316,8 @@ export default function Home() {
     }
   };
 
+  console.log("logging");
+
   // THE ACTUAL WEBSITE LAYOUT STARTS HERE
   return (
     <ThemeProvider theme={theme}>
