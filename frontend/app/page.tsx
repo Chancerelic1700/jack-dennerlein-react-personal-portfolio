@@ -473,7 +473,7 @@ export default function Home() {
                     lineHeight: 1.2,
                   }}
                 >
-                  Hi, I&apos;m Alex Shaw
+                  Hi, I&apos;m Jack Dennerlein
                   {/* Job title with gradient effect */}
                   <Typography
                     variant="h2"
@@ -489,7 +489,7 @@ export default function Home() {
                       WebkitTextFillColor: 'transparent',
                     }}
                   >
-                    Full Stack Developer
+                    Resident Nerd & Game Dev
                   </Typography>
                 </Typography>
                 <Typography 
@@ -497,8 +497,7 @@ export default function Home() {
                   color="text.secondary" 
                   sx={{ fontSize: '1.1rem', mt: 3, mb: 4 }}
                 >
-                  I create sophisticated web applications that deliver exceptional
-                  user experiences with modern technologies and clean code.
+                  I create fun games that i belive many should be able to enjoy
                 </Typography>
                 <Box sx={{ display: "flex", gap: 2, mt: 3 }}>
                   <Button
