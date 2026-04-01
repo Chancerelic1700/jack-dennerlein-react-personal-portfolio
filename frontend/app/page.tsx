@@ -486,7 +486,7 @@ export default function Home() {
                     sx={{
                       fontSize: { xs: '2.5rem', md: '3.5rem' },
                       lineHeight: 1.2,
-                      background: 'linear-gradient(to right, #3377ff, #ff77FF)',
+                      background: 'linear-gradient(to right, #fffc33, #ff77FF)',
                       WebkitBackgroundClip: 'text',
                       WebkitTextFillColor: 'transparent',
                     }}
